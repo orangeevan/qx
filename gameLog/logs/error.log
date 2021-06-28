@@ -1,0 +1,2 @@
+10:59:57.884[ERROR][pool-9-thread-1]c.m.q.c.r.s.impl.ProducerServiceImpl - The producer service state not OK, SHUTDOWN_ALREADY
+See http://rocketmq.apache.org/docs/faq/ for further details.

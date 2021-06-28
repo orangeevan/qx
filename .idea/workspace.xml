@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e47ff5c-9837-4db2-b00a-c16baf75c6ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/TestServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qxgame/src/main/resources/test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/mwn/packet/MwnListReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/mwn/packet/MwnListReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/player/packet/GetPlayerListReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/player/packet/GetPlayerListReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/player/packet/PlayerHeartBeatReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/player/packet/PlayerHeartBeatReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/player/packet/PlayerHeartBeatResp.java" beforeDir="false" afterPath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/player/packet/PlayerHeartBeatResp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/player/packet/PlayerQuitReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/player/packet/PlayerQuitReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/roundFight/packet/DiedMwnReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/roundFight/packet/DiedMwnReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/roundFight/packet/EquipmentInfoReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/roundFight/packet/EquipmentInfoReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/roundFight/packet/EscapeMwnFightReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/roundFight/packet/EscapeMwnFightReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/roundFight/packet/NotifyEndRoundReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/roundFight/packet/NotifyEndRoundReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/roundFight/packet/OffLineRoundLogReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/roundFight/packet/OffLineRoundLogReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/roundFight/packet/PlayerQuitRoomReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/roundFight/packet/PlayerQuitRoomReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/roundFight/packet/PlayerThrowDiceReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/roundFight/packet/PlayerThrowDiceReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/roundFight/packet/RoomInfoReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/roundFight/packet/RoomInfoReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/roundFight/packet/ServerAskCliRoundLogResp.java" beforeDir="false" afterPath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/roundFight/packet/ServerAskCliRoundLogResp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/roundFight/packet/TrainerAllCardsReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/roundFight/packet/TrainerAllCardsReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/roundFight/packet/TrainerExtractCardReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/roundFight/packet/TrainerExtractCardReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/roundFight/packet/TrainerFightReadyReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/roundFight/packet/TrainerFightReadyReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/trainer/packet/TrainerListReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/qxgame/src/main/java/com/mmorpg/qx/module/trainer/packet/TrainerListReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qxgame/src/main/resources/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/qxgame/src/main/resources/jdbc.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/orangeevan/beyond.git" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="E:\work\projects\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1uNSxoKU8QSYgq9VyTUzP8dVPW0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mmorpg.qx" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Program\beyond\socket\src\main\resources" />
+      <recent name="G:\Program\beyond\socket" />
+      <recent name="G:\Program\beyond\ramcache" />
+      <recent name="G:\Program\beyond\ramcache\src\main\resources" />
+      <recent name="G:\Program\beyond\ramcache\src\main\resources\META-INF" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Debug">
+    <configuration name="Debug" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mmorpg.qx.Debug" />
+      <module name="qxgame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mmorpg.qx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.Main" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mmorpg.qx.TestServer" />
+      <module name="qxgame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mmorpg.qx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Debug" />
+        <item itemvalue="Application.TestServer" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\ShBy\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="G:\Program\beyond\qxgame" />
+          <option name="myCopyRoot" value="G:\Program\beyond\qxgame" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="G:\Program\beyond\qxgame" />
+          <option name="myCopyRoot" value="G:\Program\beyond\qxgame" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e47ff5c-9837-4db2-b00a-c16baf75c6ea" name="Default Changelist" comment="" />
+      <created>1624504802110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624504802110</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="beyond first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="beyond first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1624591543750">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1624591543750" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1624613545809">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1624613545809" />
+    <state x="568" y="444" width="843" height="596" key="#xdebugger.evaluate" timestamp="1624589235354">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="568" y="444" width="843" height="596" key="#xdebugger.evaluate/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1624589235354" />
+    <state x="598" y="103" key="CommitChangelistDialog2" timestamp="1624847175071">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="598" y="103" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1624847175071" />
+    <state width="391" height="466" key="DebuggerActiveHint" timestamp="1624539520677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="391" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1624539520677" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1624516080204">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1624516080204" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1624847012864">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1624847012864" />
+    <state x="832" y="417" key="Github.ShareDialog" timestamp="1624845612216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="832" y="417" key="Github.ShareDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1624845612216" />
+    <state x="758" y="215" key="Github.UntrackedFilesDialog" timestamp="1624845655960">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="758" y="215" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1624845655960" />
+    <state width="1877" height="135" key="GridCell.Tab.0.bottom" timestamp="1624848184489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="135" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1624848184489" />
+    <state width="1877" height="135" key="GridCell.Tab.0.center" timestamp="1624848184489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="135" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1624848184489" />
+    <state width="1877" height="135" key="GridCell.Tab.0.left" timestamp="1624848184488">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="135" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1624848184488" />
+    <state width="1877" height="135" key="GridCell.Tab.0.right" timestamp="1624848184489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="135" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1624848184489" />
+    <state width="1877" height="150" key="GridCell.Tab.1.bottom" timestamp="1624615336715">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1624615336715" />
+    <state width="1877" height="150" key="GridCell.Tab.1.center" timestamp="1624615336715">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1624615336715" />
+    <state width="1877" height="150" key="GridCell.Tab.1.left" timestamp="1624615336715">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1624615336715" />
+    <state width="1877" height="150" key="GridCell.Tab.1.right" timestamp="1624615336715">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1624615336715" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1624519347111">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1624519347111" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1624593525122">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1624593525122" />
+    <state x="773" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1624845317457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="773" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1624845317457" />
+    <state x="835" y="339" width="986" height="594" key="find.popup" timestamp="1624613977297">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="835" y="339" width="986" height="594" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1624613977297" />
+    <state x="314" y="296" key="new project wizard" timestamp="1624536648532">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="314" y="296" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1624536648532" />
+    <state x="681" y="313" width="672" height="676" key="search.everywhere.popup" timestamp="1624612608996">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="313" width="672" height="676" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1624612608996" />
+    <state x="786" y="416" key="svn.passwordDialog" timestamp="1624847895187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="786" y="416" key="svn.passwordDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1624847895187" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ramcache/src/main/java/com/haipaite/common/ramcache/service/EntityCacheServiceImpl.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/socket/src/main/java/com/haipaite/config/ServerConfig.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/work/projects/repository/com/baidu/jprotobuf/2.2.14/jprotobuf-2.2.14-sources.jar!/com/baidu/bjf/remoting/protobuf/code/CodeGenerator.java</url>
+          <line>241</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/work/projects/repository/com/baidu/jprotobuf/2.2.14/jprotobuf-2.2.14-sources.jar!/com/baidu/bjf/remoting/protobuf/utils/ProtobufProxyUtils.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/work/projects/repository/com/baidu/jprotobuf/2.4.4/jprotobuf-2.4.4-sources.jar!/com/baidu/bjf/remoting/protobuf/code/CodeGenerator.java</url>
+          <line>241</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/work/projects/repository/commons-io/commons-io/2.9.0/commons-io-2.9.0.jar!/org/apache/commons/io/monitor/FileAlterationMonitor.class</url>
+          <line>103</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

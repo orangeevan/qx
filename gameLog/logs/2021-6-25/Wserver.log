@@ -1,0 +1,35 @@
+[2021-06-25 10:59:29] [INFO ][main] [Wserver:142] - 服务器启动，绑定端口: 9999
+[2021-06-25 10:59:57] [INFO ][Thread-12] [Wserver:166] - 通信层关闭
+[2021-06-25 10:59:57] [INFO ][Thread-12] [Wserver:181] - 事件服务层关闭
+[2021-06-25 10:59:57] [INFO ][Thread-12] [Wserver:189] - 排行榜服务关闭
+[2021-06-25 10:59:57] [INFO ][Thread-12] [Wserver:199] - IdentityEventExecutorGroup 业务线程已经全部关闭
+[2021-06-25 11:00:39] [INFO ][main] [Wserver:142] - 服务器启动，绑定端口: 9999
+[2021-06-25 11:01:53] [INFO ][Thread-12] [Wserver:166] - 通信层关闭
+[2021-06-25 11:01:53] [INFO ][Thread-12] [Wserver:181] - 事件服务层关闭
+[2021-06-25 11:01:53] [INFO ][Thread-12] [Wserver:189] - 排行榜服务关闭
+[2021-06-25 11:01:53] [INFO ][Thread-12] [Wserver:199] - IdentityEventExecutorGroup 业务线程已经全部关闭
+[2021-06-25 11:08:53] [INFO ][main] [Wserver:142] - 服务器启动，绑定端口: 9999
+[2021-06-25 11:08:56] [INFO ][Thread-12] [Wserver:166] - 通信层关闭
+[2021-06-25 11:08:56] [INFO ][Thread-12] [Wserver:181] - 事件服务层关闭
+[2021-06-25 11:08:56] [INFO ][Thread-12] [Wserver:189] - 排行榜服务关闭
+[2021-06-25 11:08:56] [INFO ][Thread-12] [Wserver:199] - IdentityEventExecutorGroup 业务线程已经全部关闭
+[2021-06-25 11:10:34] [INFO ][main] [Wserver:142] - 服务器启动，绑定端口: 9999
+[2021-06-25 11:10:36] [INFO ][Thread-12] [Wserver:166] - 通信层关闭
+[2021-06-25 11:10:36] [INFO ][Thread-12] [Wserver:181] - 事件服务层关闭
+[2021-06-25 11:10:36] [INFO ][Thread-12] [Wserver:189] - 排行榜服务关闭
+[2021-06-25 11:10:37] [INFO ][Thread-12] [Wserver:199] - IdentityEventExecutorGroup 业务线程已经全部关闭
+[2021-06-25 11:13:15] [INFO ][main] [Wserver:142] - 服务器启动，绑定端口: 9999
+[2021-06-25 11:25:45] [INFO ][Thread-12] [Wserver:166] - 通信层关闭
+[2021-06-25 11:25:45] [INFO ][Thread-12] [Wserver:181] - 事件服务层关闭
+[2021-06-25 11:25:45] [INFO ][Thread-12] [Wserver:189] - 排行榜服务关闭
+[2021-06-25 11:25:45] [INFO ][Thread-12] [Wserver:199] - IdentityEventExecutorGroup 业务线程已经全部关闭
+[2021-06-25 14:24:15] [INFO ][main] [Wserver:142] - 服务器启动，绑定端口: 9999
+[2021-06-25 14:24:24] [INFO ][Thread-12] [Wserver:166] - 通信层关闭
+[2021-06-25 14:24:24] [INFO ][Thread-12] [Wserver:181] - 事件服务层关闭
+[2021-06-25 14:24:24] [INFO ][Thread-12] [Wserver:189] - 排行榜服务关闭
+[2021-06-25 14:24:24] [INFO ][Thread-12] [Wserver:199] - IdentityEventExecutorGroup 业务线程已经全部关闭
+[2021-06-25 17:39:08] [INFO ][main] [Wserver:142] - 服务器启动，绑定端口: 9999
+[2021-06-25 18:02:10] [INFO ][Thread-12] [Wserver:166] - 通信层关闭
+[2021-06-25 18:02:10] [INFO ][Thread-12] [Wserver:181] - 事件服务层关闭
+[2021-06-25 18:02:10] [INFO ][Thread-12] [Wserver:189] - 排行榜服务关闭
+[2021-06-25 18:02:10] [INFO ][Thread-12] [Wserver:199] - IdentityEventExecutorGroup 业务线程已经全部关闭

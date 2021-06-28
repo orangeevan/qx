@@ -1,0 +1,15 @@
+[2021-06-24 17:49:40] [WARN ][main] [Debug:56] - 服务器已经启动 - [2021-06-24 17:49:40]
+[2021-06-24 17:49:40] [WARN ][main] [Debug:58] - 服务器当前时区 - [sun.util.calendar.ZoneInfo[id="Asia/Shanghai",offset=28800000,dstSavings=0,useDaylight=false,transitions=19,lastRule=null]]
+[2021-06-24 17:49:40] [WARN ][main] [Debug:60] - 服务器MD5 - [[]]
+[2021-06-24 17:49:40] [WARN ][main] [Debug:63] - PORTS - [[9999]]
+[2021-06-24 17:49:40] [WARN ][main] [Debug:65] - 消耗了 34605 ms (╯﹏╰)
+[2021-06-24 17:57:06] [WARN ][main] [Debug:56] - 服务器已经启动 - [2021-06-24 17:57:06]
+[2021-06-24 17:57:06] [WARN ][main] [Debug:58] - 服务器当前时区 - [sun.util.calendar.ZoneInfo[id="Asia/Shanghai",offset=28800000,dstSavings=0,useDaylight=false,transitions=19,lastRule=null]]
+[2021-06-24 17:57:06] [WARN ][main] [Debug:60] - 服务器MD5 - [[]]
+[2021-06-24 17:57:06] [WARN ][main] [Debug:63] - PORTS - [[9999]]
+[2021-06-24 17:57:06] [WARN ][main] [Debug:65] - 消耗了 75021 ms (╯﹏╰)
+[2021-06-24 17:58:46] [WARN ][main] [Debug:56] - 服务器已经启动 - [2021-06-24 17:58:46]
+[2021-06-24 17:58:46] [WARN ][main] [Debug:58] - 服务器当前时区 - [sun.util.calendar.ZoneInfo[id="Asia/Shanghai",offset=28800000,dstSavings=0,useDaylight=false,transitions=19,lastRule=null]]
+[2021-06-24 17:58:46] [WARN ][main] [Debug:60] - 服务器MD5 - [[]]
+[2021-06-24 17:58:46] [WARN ][main] [Debug:63] - PORTS - [[9999]]
+[2021-06-24 17:58:46] [WARN ][main] [Debug:65] - 消耗了 37718 ms (╯﹏╰)
