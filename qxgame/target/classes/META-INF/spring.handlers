@@ -1,3 +1,0 @@
-http\://www.haipaite.com/common/ramcache=com.haipaite.common.ramcache.schema.NamespaceHandler
-http\://www.haipaite.com/common/event=com.haipaite.common.event.config.EventNamespaceHandler
-http\://www.haipaite.com/common/resource=com.haipaite.common.resource.schema.NamespaceHandler
